@@ -8,7 +8,7 @@ const path		= require('path');
 //express é um microframework para não precisar escrever coisas que já estão prontas
 const app = express();
 
-mongoose.connect('mongodb+srv://omnisctack:123123123@cluster0-spl4w.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('<url>', {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });
