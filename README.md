@@ -1,7 +1,6 @@
 # AirCnC
 Esse é um projeto construído na semana 9.0 da Oministack 2019 oferecido pela RocketSeat. Seu desenvolvimento é inspirado na empresa AirBnB, em que o BnB significad Bed and BreakFast. Nesta versão o CnC significa Code and Coffe e tem como principal intuito divulgar spots e facilitar a reserva de spots oferecido por empresas.
 
-#Dependencias
 Para você rodar esse projeto em sua máquina você precisa possuir o NodeJs e o Yarn em sua máquina.
 Dependencias no Front-End:
 - axios ^0.19.0
